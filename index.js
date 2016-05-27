@@ -1,6 +1,6 @@
 module.exports = {
-  net:require('./react.force.net.js'),
-  oauth:require('./react.force.oauth.js'),
-  smartstore:require('./react.force.smartstore.js'),
-  smartsync:require('./react.force.smartsync.js')
+  net:require('./src/react.force.net.js'),
+  oauth:require('./src/react.force.oauth.js'),
+  smartstore:require('./src/react.force.smartstore.js'),
+  smartsync:require('./src/react.force.smartsync.js')
 };
