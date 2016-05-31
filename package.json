@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivanbogdanov/react.force.git"
+    "url": "git+https://github.com/ForceDotComLabs/react.force.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivanbogdanov/react.force/issues"
+    "url": "https://github.com/ForceDotComLabs/react.force/issues"
   },
-  "homepage": "https://github.com/ivanbogdanov/react.force#readme",
+  "homepage": "https://github.com/ForceDotComLabs/react.force#readme",
   "peerDependencies": {
     "react-native": ">=0.20.0"
   }
